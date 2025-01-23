@@ -1,5 +1,4 @@
 # Cycle-Cipher
-An original cipher for encrypting and decrypting files
 The coding product will be separated into two parts, which are Cycle Ciphers conducting in $\mathbf{Z}_{26} $ and $\mathbf{Z}_{256}$ .
 
 \subsection{Coding product in $\mathbf{Z}_{26}$}
