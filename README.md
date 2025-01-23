@@ -1,6 +1,7 @@
 # Cycle-Cipher
 An original cipher for encrypting and decrypting files
-The coding product will be separated into two parts, which are Cycle Ciphers conducting in $\mathbf{Z}_{26}$ and $\mathbf{Z}_{256}$.
+The coding product will be separated into two parts, which are Cycle Ciphers conducting in $\mathbf{Z}_{26} $ and $\mathbf{Z}_{256}$ .
+
 \subsection{Coding product in $\mathbf{Z}_{26}$}
 The coding products in $\mathbf{Z}_{26}$ will include a process of encryption, decryption, a key generator, and a program that checking the frequency of the text. In $\mathbf{Z}_{26}$, all plaintexts and ciphertexts just only include capital letters from A to Z. Furthermore, the file to be encrypted and decrypted must end in \textbf{.txt}\\
 
